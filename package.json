@@ -1,13 +1,13 @@
 {
-	"name": "yoga-layout-prebuilt",
-	"version": "1.10.0",
+	"name": "@cheese-and-pudding/yoga-layout-prebuilt",
+	"version": "1.19.0",
 	"description": "Prebuilt yoga-layout package",
 	"license": "MIT",
-	"repository": "vadimdemedes/yoga-layout-prebuilt",
+	"repository": "wjq990112/yoga-layout-prebuilt",
 	"author": {
-		"name": "Vadim Demedes",
-		"email": "vdemedes@gmail.com",
-		"url": "github.com/vadimdemedes"
+		"name": "Jack Wang",
+		"email": "1163585385@qq.com",
+		"url": "https://github.com/wjq990112"
 	},
 	"engines": {
 		"node": ">=8"
